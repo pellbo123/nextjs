@@ -23,6 +23,14 @@ npm start
 ```
 http://localhost:3000
 ```
-
+#Features
+-MonggoDB
+-Create, Resd, Update, Delete
+- Dynamic Route
+- useRoute
+- Query String
+- Static/Dynamic Rendering
+- Session, OAuth
+- 
 
 
