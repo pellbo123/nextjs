@@ -1,4 +1,4 @@
-# react-study
+# Next.js
 
 #Introduction
 Next.js 학습 과정을 날짜별로 정리하고 코드를 공유합니다
